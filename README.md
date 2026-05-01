@@ -25,7 +25,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" src="https://profile-counter.glitch.me/devz-on/count.svg" />
+<img align="middle" src="https://komarev.com/ghpvc/?username=devz-on" />
 </p>
 <br />
 
