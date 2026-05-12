@@ -35,9 +35,9 @@
 <p>
  <img align="right" width="350" src="./Assests/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/devz-on/devz-on/issues)
+ ✌️ &emsp; Enjoy to do programming and wtf is that bird shit!! <br/><br/>
+ ❤️ &emsp; Love to writing code and fuck this bird!!!<br/><br/>
+ 💬 &emsp; !Ask me about anything [here](https://github.com/devz-on/devz-on/issues)
 
 </p>
 
