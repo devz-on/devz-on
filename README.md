@@ -9,15 +9,13 @@
         I'm Dev~
 </h3>
 
-
 <p align="center">
-  <a href="https://github.com/devz-on"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Tech%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/devz-on"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught;Tech%20is%20Shit;Always%20doing%20BlaBlaBla;I%20don't%20really%20care&center=true&width=380&height=45"></a>
 </p>
-
 
 <p align="center"> 
   <br />
-    「 Currently a student 」
+    「 Working for DAI 」
   <br />
 </p>
 
@@ -49,7 +47,6 @@
 
 ## Contact me
 <p align="left">
-   <a href="https://bhoothihu.t.me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="mailto:bhoothihu@Gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
